@@ -1,6 +1,8 @@
 # Konvolusi
 CNN - Convolutional neural network
 
+![](https://miro.medium.com/max/2510/1*XbuW8WuRrAY5pC4t-9DZAQ.jpeg)
+
 Beberapa tahapan dalam membangun model CNN disini adalah sebagai berikut:  
 Step 1: Convolution  
 Step 2: Pooling  
