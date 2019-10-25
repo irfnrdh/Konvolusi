@@ -52,6 +52,8 @@ Lihat slide berikut untuk lebih jelas -> [Penjelasan Full Connection Layer](http
 - https://www.youtube.com/watch?v=umGJ30-15_A
 - https://www.youtube.com/watch?v=WvoLTXIjBYU
 - http://machinelearning.mipa.ugm.ac.id/tag/convolutional_neural_network/
+- https://jhui.github.io/2017/03/16/CNN-Convolutional-neural-network/
+- http://cs231n.github.io/convolutional-networks/
 
 # CNN for Stock Prediction
 - https://www.youtube.com/watch?v=IscG_bAeEic
