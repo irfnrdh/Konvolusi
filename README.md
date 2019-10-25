@@ -1,11 +1,11 @@
 # Konvolusi
 CNN - Convolutional neural network
 
-Beberapa tahapan dalam membangun model CNN disini adalah sebagai berikut:
-Step 1: Convolution
-Step 2: Pooling
-Step 3: Flattening
-Step 4: Full Connection
+Beberapa tahapan dalam membangun model CNN disini adalah sebagai berikut:  
+Step 1: Convolution  
+Step 2: Pooling  
+Step 3: Flattening  
+Step 4: Full Connection  
 
 
 # Tutorial
