@@ -54,6 +54,7 @@ Lihat slide berikut untuk lebih jelas -> [Penjelasan Full Connection Layer](http
 - http://machinelearning.mipa.ugm.ac.id/tag/convolutional_neural_network/
 - https://jhui.github.io/2017/03/16/CNN-Convolutional-neural-network/
 - http://cs231n.github.io/convolutional-networks/
+- https://medium.com/data-science-group-iitr/building-a-convolutional-neural-network-in-python-with-tensorflow-d251c3ca8117
 
 # CNN for Stock Prediction
 - https://www.youtube.com/watch?v=IscG_bAeEic
