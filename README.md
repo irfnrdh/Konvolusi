@@ -60,4 +60,9 @@ Lihat slide berikut untuk lebih jelas -> [Penjelasan Full Connection Layer](http
 - https://www.youtube.com/watch?v=IscG_bAeEic
 - https://www.youtube.com/watch?v=nMkqWxMjWzg
 
-
+# CNN Deep Tutorial 
+- https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/ 
+- https://pythonprogramming.net/loading-custom-data-deep-learning-python-tensorflow-keras/
+- https://towardsdatascience.com/all-the-steps-to-build-your-first-image-classifier-with-code-cf244b015799  (Membangun Dataset MNIST)
+- https://www.youtube.com/watch?v=j-3vuBynnOE
+- https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN (Santdex Deep Learning Series)
